@@ -1,0 +1,12 @@
+[package]
+name = "advent_of_code"
+version = "1.0.0"
+edition = "2021"
+publish = false
+
+[[bin]]
+name = "main"
+path = "main.rs"
+
+[dependencies]
+modinverse = "0.1.1"
